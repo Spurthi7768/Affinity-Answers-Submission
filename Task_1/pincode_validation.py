@@ -154,9 +154,7 @@ if __name__=='__main__':
 
                 # Format the JSON output into a list of locations
 
-                valid_list=pincode_place_mapping(result)
-
-                print("Places: ",valid_list)
+                valid_list=pincode_place_mapping(result)               
 
                 #Check if the locations match with the input address
 
