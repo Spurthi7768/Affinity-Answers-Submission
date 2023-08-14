@@ -20,3 +20,6 @@ Accept the Input of Address ------> Split the Address -----> Extract the PIN cod
 ## Output 
 
 This output is for the test cases mentioned in the question
+
+![image](https://github.com/Spurthi7768/Affinity-Answers-Submission/assets/67674744/05d721ae-e25a-418d-be12-a22a2aef15ff)
+
